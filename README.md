@@ -6,7 +6,7 @@ FME V2.5 offers powerful algorithms, flexible settings, and a user-friendly inte
 ![image](https://github.com/w3NESSA/FORTNITE-MACROS-EDITOR-V2.5/assets/162491095/8fe8aec1-5ac2-4c21-b31d-5dd04044aecc)
 
 
-List of functions 📑
+## List of functions 📑
 
 • FOV
 • Tunnel
