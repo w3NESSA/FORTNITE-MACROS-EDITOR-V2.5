@@ -8,19 +8,19 @@ FME V2.5 offers powerful algorithms, flexible settings, and a user-friendly inte
 
 ## List of functions 📑
 
-• FOV
-• Tunnel
-• Retake
-• Double 90
-• Recoil Control
-• Prefire
-• Prefire Boost
-• Quick Edit
-• Reset build
-• Layer Rush
-• Turtle
-• Crouch Spam
-• Clicker
-• Bunnyhop
-• Auto Build
-• Fast Loot
+- FOV
+- Tunnel
+- Retake
+- Double 90
+- Recoil Control
+- Prefire
+- Prefire Boost
+- Quick Edit
+- Reset build
+- Layer Rush
+- Turtle
+- Crouch Spam
+- Clicker
+- Bunnyhop
+- Auto Build
+- Fast Loot
